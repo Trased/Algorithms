@@ -1,0 +1,4 @@
+Alege un nod din graf care nu are niciun succesor (un nod fără muchii care pornesc din el).
+Adaugă nodul în ordinea sortării.
+Elimină nodul din graf, împreună cu toate muchiile care pornesc din el.
+Repetă pașii 1-3 pentru restul nodurilor care nu au fost încă procesate.
